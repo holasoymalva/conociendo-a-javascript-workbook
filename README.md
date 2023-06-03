@@ -16,7 +16,7 @@ Hola ✌️ quiero darte la bienvenida a "Conociendo a JavaScript" un repo de tr
 
 ## Apoya este proyecto 🙌
 
-Tú también puedes apoyar a desarrollar este proyecto 😊, si tienes ideas de temas que podríamos agregar puedes dejarlos en los Issues y en la medida de lo posible trabajaré en desarrollarlos. De igual forma, si pudieras apoyar regalándome una [tasa de café]() o regalándome un follow para recibir actualizaciones del proyecto, se te agradecería muchísimo de corazón 🫶
+Tú también puedes apoyar a desarrollar este proyecto 😊, si tienes ideas de temas que podríamos agregar puedes dejarlos en los Issues y en la medida de lo posible trabajaré en desarrollarlos. De igual forma, si pudieras apoyar regalándome una [tasa de café][coffee-link] o regalándome un follow para recibir actualizaciones del proyecto, se te agradecería muchísimo de corazón 🫶
 
 [![coffee]][coffee-link]
 
