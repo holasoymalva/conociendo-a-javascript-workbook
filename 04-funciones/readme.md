@@ -6,7 +6,7 @@
 
 
 
-### Diferencias entre var, let y const
+## Diferencias entre var, let y const
 
 Dentro de JavaScript, la declaración de variables juega un papel fundamental en el manejo de datos. Anteriormente, se utilizaba la palabra clave `var` para declarar variables, pero con la introducción de ECMAScript 6 (ES6), se agregaron las palabras clave `let` y `const`.
 
