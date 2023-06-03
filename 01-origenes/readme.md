@@ -1,4 +1,4 @@
-# ¿De donde viene javascript?
+# ¿De dónde viene JavaScript?
 
 JavaScript fue creado originalmente por Brendan Eich en 1995 mientras trabajaba en Netscape Communications Corporation. En ese momento, Netscape estaba desarrollando el navegador web Netscape Navigator, y necesitaban un lenguaje de programación ligero que se pudiera ejecutar en el navegador y permitiera la interactividad en las páginas web.
 
