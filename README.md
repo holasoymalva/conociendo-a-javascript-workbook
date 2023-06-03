@@ -14,6 +14,5 @@ Hola ✌️ quiero darte la bienvenida a "Conociendo a Javascript" un libro de t
 * Las diferencias entre CallBack, Promesas y Asyn/Await
 * Hilos y Sub tareas
 
-## Autor
-Malva 
-Jun 2023 - México 
+## About the Autor:
+Written by Malva : Jun 2023 - México 
