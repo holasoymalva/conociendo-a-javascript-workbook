@@ -1,5 +1,5 @@
 # Conociendo a javascript - Workbook
-Hola ✌️ quiero darte la bienvenida a "Conociendo a Javascript" un repo de trabajo para aprender las distintas características de javascript de una manera rapida y sencilla.
+Hola ✌️ quiero darte la bienvenida a "Conociendo a JavaScript" un repo de trabajo para aprender las distintas características de JavaScript de una manera rápida y sencilla. Este no sustituye un curso formal de JavaScript, pero te ayudará a entender los conceptos más importantes de un lenguaje de una forma amigable. 🙌
 
 ## Indice 
 * [¿De donde viene Javascript?](./01-origenes#de-donde-viene-javascript)
