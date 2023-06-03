@@ -6,11 +6,10 @@ JavaScript es un lenguaje de programación fundamental en el desarrollo web. Con
 
 En JavaScript, las variables se utilizan para almacenar valores. Puedes declarar una variable usando las palabras clave var, let o const. Por ejemplo:
 
-´´´ javascript
+``` javascript
 var nombre = "Juan";
 let edad = 25;
-const PI = 3.1416;
-´´´ 
+``` 
 ——————— Aqui va Diferencias entre var, let y const
 
 A hora bien en cuanto a cuando utilizar var, let y const , 
@@ -19,10 +18,10 @@ A hora bien en cuanto a cuando utilizar var, let y const ,
 
 JavaScript tiene varios tipos de datos, como cadenas de texto (strings), números, booleanos, arrays y objetos. Puedes asignar valores a variables y combinar diferentes tipos de datos. Por ejemplo:
 
-´´´ javascript
+``` javascript
 var mensaje = "¡Hola, mundo!";
 var numero = 42;
 var esValido = true;
 var lista = [1, 2, 3, 4, 5];
 var persona = { nombre: "Juan", edad: 25 };
-´´´
+```
