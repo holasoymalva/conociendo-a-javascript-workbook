@@ -3,7 +3,7 @@ Hola ✌️ quiero darte la bienvenida a "Conociendo a Javascript" un libro de t
 
 ## Indice 
 * [¿De donde viene Javascript?](./01-origenes#de-donde-viene-javascript)
-* Sistaxis y tipos de datos
+* [Sistaxis y tipos de datos](./02-sintaxis#sintaxis-basica-del-lenguaje)
 * Operadores Logicos y Aritmeticos
 * Funciones y Block Scope
 * Javascript antes de EcmasCript6
