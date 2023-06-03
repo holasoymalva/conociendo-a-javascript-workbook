@@ -2,7 +2,7 @@
 Hola ✌️ quiero darte la bienvenida a "Conociendo a Javascript" un libro de trabajo para aprender las distintas características de este lenguaje de programación tan dinamico.
 
 ## Indice 
-* ¿De donde viene Javascript?
+* [¿De donde viene Javascript?](./01-origenes#de-donde-viene-javascript)
 * Sistaxis y tipos de datos
 * Operadores Logicos y Aritmeticos
 * Funciones y Block Scope
