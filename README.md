@@ -6,7 +6,7 @@ Hola ✌️ quiero darte la bienvenida a "Conociendo a JavaScript" un repo de tr
 * [Sistaxis y tipos de datos](./02-sintaxis#sintaxis-basica-del-lenguaje)
 * [Operadores Logicos y Aritmeticos](./03-operadores/readme.md#operadores-aritmeticos-y-logicos)
 * [Funciones y Block Scope](./04-funciones/readme.md#funciones-y-blockscope)
-* Javascript antes de EcmasCript6
+* Javascript antes de EcmaScript6
 * ¿Que es la programacion Orientada a Objetos?
 * De las funciones a las clases.
 * Programacion Orientada a Objetos en terminos modernos
