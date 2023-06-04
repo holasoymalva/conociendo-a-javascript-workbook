@@ -1,4 +1,4 @@
-# Operadores Aritmeticos y Logicos
+# Operadores Aritméticos y Lógicos
 
 En el mundo de la programación, los operadores son herramientas esenciales que nos permiten realizar operaciones matemáticas y evaluaciones lógicas en nuestros programas. JavaScript, como lenguaje de programación, ofrece una amplia gama de operadores aritméticos y lógicos para manipular datos y realizar decisiones basadas en condiciones. En este artículo, vamos a adentrarnos en el fascinante mundo de los operadores aritméticos y lógicos en JavaScript y aprender cómo aprovechar su potencial en nuestros programas.
 
