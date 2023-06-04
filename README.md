@@ -7,7 +7,7 @@ Hola ✌️ quiero darte la bienvenida a "Conociendo a JavaScript" un repo de tr
 * [Operadores Logicos y Aritmeticos](./03-operadores)
 * [Funciones y Block Scope](./04-funciones)
 * [Javascript antes de EcmaScript6](./05-ecmascript)
-* ¿Que es la programacion Orientada a Objetos?
+* ¿Que es la programación Orientada a Objetos?
 * De las funciones a las clases.
 * Programacion Orientada a Objetos en terminos modernos
 * La asincronia en Javascript: EveltLoop y CallStack
