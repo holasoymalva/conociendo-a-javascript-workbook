@@ -61,9 +61,9 @@ A la hora de elegir entre `var`, `let` y `const`, es importante considerar el al
 
 Durante nuestro analisis de cuando utilizar `var`, `let` y `const` tocamos un tema que no habiamos escuchado hasta este punto `El BlockScope` o `El alcance de bloque` ¿Pero a que se refiere el alcance de bloque?
 
-El alcance (scope) en JavaScript determina la accesibilidad y visibilidad de variables y funciones en diferentes partes del código. Anteriormente, JavaScript solo tenía alcance de función, lo que significa que una variable declarada dentro de una función era accesible en todo el cuerpo de la función. Sin embargo, con la introducción de ECMAScript 6 (ES6), se agregó el alcance de bloque. En este artículo, exploraremos el concepto del Block Scope (alcance de bloque) en JavaScript y cómo afecta la declaración y accesibilidad de variables.
+El alcance (scope) en JavaScript determina la accesibilidad y visibilidad de variables y funciones en diferentes partes del código. Anteriormente, JavaScript solo tenía alcance de función, lo que significa que una variable declarada dentro de una función era accesible en todo el cuerpo de la función. Sin embargo, con la introducción de ECMAScript 6 (ES6), se agregó el alcance de bloque.
 
-¿Qué es el Block Scope?
+#### ¿Qué es el Block Scope?
 El Block Scope se refiere al alcance de una variable cuando está declarada dentro de un bloque de código delimitado por llaves {}. Un bloque puede ser una función, una declaración condicional if, un bucle for, entre otros. Dentro de un bloque, las variables declaradas con let y const tienen un alcance limitado al bloque en el que fueron declaradas.
 
 ```javascript
