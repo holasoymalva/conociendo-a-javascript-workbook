@@ -1,10 +1,62 @@
 # Funciones y BlockScope
 
-——————— Aqui va Funciones en Javascript
+Las funciones son una parte fundamental de cualquier lenguaje de programación, y JavaScript no es una excepción. Las funciones nos permiten organizar y reutilizar bloques de código, lo que hace que nuestro código sea más modular, legible y mantenible. 
 
+#### Declaración de funciones:
+En JavaScript, podemos declarar funciones utilizando la palabra clave function, seguida por un nombre descriptivo para la función y un par de paréntesis. Dentro de las llaves de la función, definimos el bloque de código que se ejecutará cuando llamemos a la función.
 
+``` javascript
+function saludar() {
+  console.log("¡Hola, mundo!");
+}
+```
 
+#### Invocación de funciones:
+Una vez que hemos declarado una función, podemos invocarla o llamarla utilizando su nombre seguido de un par de paréntesis. Esto ejecutará el bloque de código definido en la función.
 
+``` javascript
+saludar(); // Salida: ¡Hola, mundo!
+```
+
+#### Parámetros de función:
+Las funciones pueden recibir parámetros, que son valores que se pasan a la función cuando se invoca. Estos parámetros se definen dentro de los paréntesis de la declaración de la función y se utilizan como variables dentro del bloque de código de la función.
+
+``` javascript
+function saludar(nombre) {
+  console.log("¡Hola, " + nombre + "!");
+}
+
+saludar("Juan"); // Salida: ¡Hola, Juan!
+```
+
+#### Retorno de valores:
+Las funciones pueden devolver valores utilizando la palabra clave return. Esto nos permite utilizar el resultado de una función en otro lugar de nuestro código.
+
+``` javascript
+function sumar(a, b) {
+  return a + b;
+}
+
+let resultado = sumar(3, 4);
+console.log(resultado); // Salida: 7
+```
+
+#### Funciones anónimas y funciones de flecha:
+En JavaScript, también podemos crear funciones anónimas, que no tienen un nombre específico y se asignan a variables. Además, las funciones de flecha (arrow functions) son una sintaxis más concisa para declarar funciones.
+
+``` javascript
+let saludar = function(nombre) {
+  console.log("¡Hola, " + nombre + "!");
+};
+
+saludar("María"); // Salida: ¡Hola, María!
+
+// Función de flecha
+let sumar = (a, b) => a + b;
+console.log(sumar(2, 3)); // Salida: 5
+```
+
+Las funciones desempeñan un papel crucial en JavaScript, ya que nos permiten modularizar nuestro código, reutilizar bloques de código y hacer que nuestro código sea más legible y mantenible. En esta sección, hemos explorado las diferentes características de las funciones en JavaScript, desde la declaración y la invocación básica hasta el uso de parámetros y el retorno de valores. También hemos visto las funciones anónimas y las funciones de flecha, que ofrecen formas alternativas de crear funciones en JavaScript. A medida que te familiarices con las funciones, podrás aprovechar al máximo su potencial y escribir un código más eficiente y estructurado.
 
 ## Diferencias entre var, let y const
 
@@ -15,7 +67,7 @@ Dentro de JavaScript, la declaración de variables juega un papel fundamental en
 Antes de la llegada de ES6, `var` era la única palabra clave para declarar variables en JavaScript. Sin embargo, var tiene algunas particularidades que pueden conducir a comportamientos inesperados. Una de las principales diferencias es que las variables declaradas con `var` tienen un alcance de función o global, lo que significa que pueden ser accesibles fuera del bloque en el que fueron declaradas. Por ejemplo:
 
 
-```javascript
+``` javascript
 
 function ejemploVar() {
   if (true) {
@@ -28,7 +80,7 @@ function ejemploVar() {
 #### let: Introduciendo el alcance de bloque
 Con la introducción de `let`, se resolvió uno de los problemas de `var`: `el alcance de bloque`. Cuando declaras una variable con `let`, esta solo está disponible dentro del bloque en el que se declaró. Por ejemplo:
 
-```javascript
+``` javascript
 
 function ejemploLet() {
   if (true) {
@@ -43,7 +95,7 @@ Además, `let` permite reasignar valores a la misma variable en el mismo ámbito
 #### const: Variables inmutables
 La palabra clave `const` se utiliza para declarar variables cuyos valores no cambiarán una vez asignados. Al igual que let, const tiene un alcance de bloque, pero a diferencia de var y let, no se puede reasignar un nuevo valor a una variable declarada con const. Por ejemplo:
 
-```javascript
+``` javascript
 
 function ejemploConst() {
   const pi = 3.1416;
@@ -66,7 +118,7 @@ El alcance (scope) en JavaScript determina la accesibilidad y visibilidad de var
 #### ¿Qué es el Block Scope?
 El Block Scope se refiere al alcance de una variable cuando está declarada dentro de un bloque de código delimitado por llaves {}. Un bloque puede ser una función, una declaración condicional if, un bucle for, entre otros. Dentro de un bloque, las variables declaradas con let y const tienen un alcance limitado al bloque en el que fueron declaradas.
 
-```javascript
+``` javascript
 function ejemploBlockScope() {
   var x = 10;
   let y = 20;
@@ -97,13 +149,5 @@ Consideraciones importantes:
 * Las variables declaradas con `let` y `const` tienen un comportamiento de "temporal dead zone" (zona temporalmente muerta), lo que significa que no pueden ser accesibles antes de su declaración en el código.
 
 En conclusión, el Block Scope en JavaScript es una adición valiosa al lenguaje que te permite tener un control más preciso sobre el alcance de tus variables. Utilizar `let` y `const` dentro de bloques específicos ayuda a evitar conflictos y errores, y mejora la legibilidad y mantenibilidad del código. Aprovecha al máximo el alcance de bloque para escribir código más robusto y claro en tus proyectos de JavaScript.
-
-
-
-
-
-
-
-
 
 
