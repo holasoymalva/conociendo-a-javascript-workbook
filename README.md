@@ -95,12 +95,37 @@ Tú también puedes apoyar a desarrollar este proyecto 😊, si tienes ideas de 
 
 [![coffee]][coffee-link]
 
-
 ## About the Autor:
 Written by Malva : Jun 2023 - México 
+
+[![in]][in-link] [![ig]][ig-link] [![tt]][tt-link]
+
+
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
 
 [coffee]: https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black
 [coffee-link]: https://bmc.link/malvabombom
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[es]: https://img.shields.io/badge/README-Español-red
+[css3]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+[html5]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+[js]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+[vsc]: https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white
+[git]: https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white
+[ps]: https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white
+[ai]: https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe%20illustrator&logoColor=white
+[fg]: https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white
+[in]: https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white
+[ig]: https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white
+[fb]: https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white
+[tt]: https://img.shields.io/badge/tiktok-000000?style=flat-square&logo=tiktok&logoColor=white
+
+[as]: https://malvabombom.xyz/
+[ny-link]: https://gleaming-basbousa-b25172.netlify.app/ 
+[sass]: https://sass-lang.com
+[imgl]: https://imagesloaded.desandro.com
+[in-link]: https://www.linkedin.com/in/martin-manriquez-899877177/
+[ig-link]: https://www.instagram.com/holasoymalva/
+[tt-link]: https://www.tiktok.com/@holasoymalva
