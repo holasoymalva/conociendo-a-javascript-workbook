@@ -11,6 +11,17 @@ Hola ✌️ quiero darte la bienvenida a "Conociendo a JavaScript" un repo de tr
 - [ ] [Funciones y Block Scope](./04-funciones)
 - [ ] Ejercicios
 
+### Programacion Orientada a Objetos con JS
+
+- [ ] ¿Que es la Programacion Orientada a Objetos?
+- [ ] De las funciones a las clases.
+- [ ] Programacion Orientada a Objetos en terminos modernos
+- [ ] Objetos en Javascript
+- [ ] Clases y Metodos
+- [ ] Constructores
+- [ ] Herencia
+- [ ] Poliformismo
+
 ### Modern JS - EcmaScript
 
 - [ ] [Javascript antes de EcmaScript6](./05-ecmascript)
@@ -23,7 +34,15 @@ Hola ✌️ quiero darte la bienvenida a "Conociendo a JavaScript" un repo de tr
 - [ ] Generadores
 - [ ] Mixins
 
-# Manipular elementos de Chrome (Navegador) con Javascript (Vanilla)
+### Asincronia con JS
+- [ ] Sincronia vs Asincronia en JS
+- [ ] Callbacks
+- [ ] Arrow functions
+- [ ] Async Await
+- [ ] Labs : 1
+- [ ] Labs : 2
+
+### Manipular elementos de Chrome (Navegador) con Javascript (Vanilla)
 
 - [ ] Que es el Dom.
 - [ ] Chrome developer Toolkit.
@@ -33,25 +52,6 @@ Hola ✌️ quiero darte la bienvenida a "Conociendo a JavaScript" un repo de tr
 - [ ] Como funciona un Routing.
 - [ ] Como hacer un Routing con JS.
 - [ ] Practica : Lista de Pedidos con JS.
-
-### Programacion Orientada a Objetos con JS
-
-- [ ] ¿Que es la Programacion Orientada a Objetos?
-- [ ] De las funciones a las clases.
-- [ ] Programacion Orientada a Objetos en terminos modernos
-- [ ] Objetos en Javascript
-- [ ] Clases y Metodos
-- [ ] Constructores
-- [ ] Herencia
-- [ ] Poliformismo
-
-### Asincronia con JS
-- [ ] Sincronia vs Asincronia en JS
-- [ ] Callbacks
-- [ ] Arrow functions
-- [ ] Async Await
-- [ ] Labs : 1
-- [ ] Labs : 2
 
 ### Modulos y WebPack
 
